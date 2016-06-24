@@ -1,0 +1,6 @@
+{
+  "name": "Eclipse Java Code Folding",
+  "tagline": "Eclipse java code folding plugin",
+  "body": "# EclipseJavaCodeFolding\r\nEclipse java code folding plugin\r\n准备实现一个适用于新版本Eclipse的Java代码折叠插件。\r\n插件的功能与使用参见此博客（原作者的？？）http://www.cnblogs.com/zhwl/p/3632816.html。\r\n待新代码搞定后，放到此仓库的wiki中。\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
